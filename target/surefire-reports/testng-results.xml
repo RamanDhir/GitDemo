@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="138021" started-at="2019-04-05T12:26:07Z" finished-at="2019-04-05T12:28:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="138021" started-at="2019-04-05T12:26:07Z" finished-at="2019-04-05T12:28:25Z">
+      <class name="UI_auto.DashboardPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="openBrowser" is-config="true" duration-ms="1423" started-at="2019-04-05T17:56:07Z" finished-at="2019-04-05T17:56:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="navigateToLoginPageAndSelectDate()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="navigateToLoginPageAndSelectDate" duration-ms="29982" started-at="2019-04-05T17:56:08Z" finished-at="2019-04-05T17:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToLoginPageAndSelectDate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="closeBrowser" is-config="true" duration-ms="119" started-at="2019-04-05T17:56:38Z" finished-at="2019-04-05T17:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="openBrowser" is-config="true" duration-ms="785" started-at="2019-04-05T17:56:38Z" finished-at="2019-04-05T17:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="getMalSuspAutoCorrCount()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="getMalSuspAutoCorrCount" duration-ms="31676" started-at="2019-04-05T17:56:39Z" finished-at="2019-04-05T17:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMalSuspAutoCorrCount -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="closeBrowser" is-config="true" duration-ms="128" started-at="2019-04-05T17:57:11Z" finished-at="2019-04-05T17:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="openBrowser" is-config="true" duration-ms="781" started-at="2019-04-05T17:57:11Z" finished-at="2019-04-05T17:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="navigateToMaliciousPageAndCheckEntityListing()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="navigateToMaliciousPageAndCheckEntityListing" duration-ms="35190" started-at="2019-04-05T17:57:12Z" finished-at="2019-04-05T17:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToMaliciousPageAndCheckEntityListing -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="closeBrowser" is-config="true" duration-ms="66" started-at="2019-04-05T17:57:47Z" finished-at="2019-04-05T17:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="openBrowser" is-config="true" duration-ms="803" started-at="2019-04-05T17:57:47Z" finished-at="2019-04-05T17:57:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="navigateToSuspiciousPageAndCheckEntityListing()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="navigateToSuspiciousPageAndCheckEntityListing" duration-ms="36889" started-at="2019-04-05T17:57:48Z" finished-at="2019-04-05T17:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToSuspiciousPageAndCheckEntityListing -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:UI_auto.DashboardPageTest@a9cd3b1]" name="closeBrowser" is-config="true" duration-ms="162" started-at="2019-04-05T17:58:25Z" finished-at="2019-04-05T17:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- UI_auto.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

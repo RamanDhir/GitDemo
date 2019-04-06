@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="UI_auto.Listeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="UI_auto.DashboardPageTest">
+        <methods>
+          <include name="navigateToSuspiciousPageAndCheckEntityListing"/>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- UI_auto.DashboardPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

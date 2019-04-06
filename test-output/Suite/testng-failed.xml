@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="UI_auto.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="UI_auto.DashboardPageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="navigateToLoginPageAndSelectDate"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- UI_auto.DashboardPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
